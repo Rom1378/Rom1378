@@ -9,10 +9,10 @@ Computer Science Engineering Student at UTC
 
 ## Education
 
-* **Université de Technologie de Compiègne (UTC)** — Engineer's degree in Computer Science, 2025 – 2028
-* **Shanghai University** — Computer Science exchange program, February 2025 – June 2025
-* **UTBM** — Engineer's degree in Computer Science, 2023 – 2025
-* **Lycée Jean Rostand** — High School Diploma in Mathematics and Computer Science
+* **Université de Technologie de Compiègne (UTC)** - Engineering degree in Computer Science, 2025 – 2028
+* **Shanghai University** - Computer Science exchange program, February 2025 – June 2025
+* **UTBM** - Engineering degree in Computer Science, 2023 – 2025
+* **Lycée Jean Rostand** - High School Diploma in Mathematics and Computer Science
 
 ---
 
