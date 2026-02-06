@@ -20,7 +20,7 @@ Computer Science Engineering Student at UTC
 
 My work focuses on **system internals**, **low-level development**, **reverse engineering**, and **3D graphics programming**.
 
-### 🔧 Languages & Core Technologies
+### Languages & Core Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ My work focuses on **system internals**, **low-level development**, **reverse en
 ![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-### 🌐 Other Technologies (Experimented With)
+### Other Technologies (Experimented With)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -64,7 +64,7 @@ My work focuses on **system internals**, **low-level development**, **reverse en
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
 
---
+---
 ## Projects
 
 * **OGLAB** GameEngine with physics
